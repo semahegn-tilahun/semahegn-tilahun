@@ -22,6 +22,9 @@ Personal portfolio showcasing projects and skills.
 ### Azael Printing
 Business website and management solution.
 
+### MT Stock Tracking Desktop Application 
+SQLite based stock tracking business app.
+
 <!--
 **semahegn-tilahun/semahegn-tilahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
