@@ -4,8 +4,9 @@ Full-Stack Web Developer.
 
 ## About Me
 - 💻 Building web applications
+- 📱 Building mobile applications
 - 🌱 Learning advanced backend architecture
-- 🚀 Interested in Laravel, React, PHP, and JavaScript
+- 🚀 Interested in flutter, Dart, React, PHP, Python and JavaScript
 - 📫 Reach me on LinkedIn
 
 ## Tech Stack
