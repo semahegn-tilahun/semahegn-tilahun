@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Semahegn Tilahun 👋
+# Hi there 👋, I'm Semahegn Tilahun 👋
 
 Full-Stack Web Developer from Ethiopia.
 
@@ -9,7 +9,7 @@ Full-Stack Web Developer from Ethiopia.
 - 📫 Reach me on LinkedIn
 
 ## Tech Stack
-HTML • CSS • JavaScript • PHP • Laravel • MySQL • Git • GitHub
+HTML • CSS • JavaScript • PHP • Python • React • PostgreSQL • MongoDB • MySQL • Git • GitHub
 
 ## Featured Projects
 ### Restaurant Menu Demo
