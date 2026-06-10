@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I'm Semahegn Tilahun 👋
+
+Full-Stack Web Developer from Ethiopia.
+
+## About Me
+- 💻 Building web applications
+- 🌱 Learning advanced backend architecture
+- 🚀 Interested in Laravel, React, PHP, and JavaScript
+- 📫 Reach me on LinkedIn
+
+## Tech Stack
+HTML • CSS • JavaScript • PHP • Laravel • MySQL • Git • GitHub
+
+## Featured Projects
+### Restaurant Menu Demo
+Responsive restaurant menu with filtering and search.
+
+### My Portfolio
+Personal portfolio showcasing projects and skills.
+
+### Azael Printing
+Business website and management solution.
 
 <!--
 **semahegn-tilahun/semahegn-tilahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
