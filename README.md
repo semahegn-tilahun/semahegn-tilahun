@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Semahegn Tilahun 👋
 
-Full-Stack Web Developer from Ethiopia.
+Full-Stack Web Developer.
 
 ## About Me
 - 💻 Building web applications
