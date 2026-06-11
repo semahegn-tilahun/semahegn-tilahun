@@ -10,7 +10,8 @@ Full-Stack Web Developer.
 - 📫 Reach me on LinkedIn
 
 ## Tech Stack
-<img width="540" height="567" alt="17811610111507287388021443958814" src="https://github.com/user-attachments/assets/c42e1d14-4be8-4d53-a0e7-f0be0c4961ad" />
+<img width="54" height="56" alt="17811610111507287388021443958814" src="https://github.com/user-attachments/assets/bc5ff9b8-2b38-4771-9768-6d4e62aaa347" />
+
  • CSS • JavaScript • PHP • Python • React • PostgreSQL • MongoDB • MySQL • Git • GitHub
 
 ## Featured Projects
