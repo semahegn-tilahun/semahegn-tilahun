@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Semahegn Tilahun 👋
 
-Full-Stack Web Developer.
+Full-Stack Web & mobile app Developer.
 
 ## About Me
 - 💻 Building web applications
